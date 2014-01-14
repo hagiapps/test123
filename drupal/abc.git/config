@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+	autocrlf = false
+[remote "heroku"]
+	url = git@heroku.com:protected-chamber-5988.git
+	fetch = +refs/heads/*:refs/remotes/heroku/*

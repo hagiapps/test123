@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 aca66231a0937d030159213238194ddd52eba44f Hagai Reuven <hagiapps@gmail.com> 1388416227 +0200	commit (initial): git init
+aca66231a0937d030159213238194ddd52eba44f 83b498724653a95ba9cd1bb50de17f0e5a9623c6 Hagai Reuven <hagiapps@gmail.com> 1388416635 +0200	commit: gitignore settings
+83b498724653a95ba9cd1bb50de17f0e5a9623c6 7ebf49ba3ed0b2028592ed7abaa1d91d5e0ba97e Hagai Reuven <hagiapps@gmail.com> 1388417437 +0200	commit: test 123
+7ebf49ba3ed0b2028592ed7abaa1d91d5e0ba97e db7cf168526e49c820fbeabf311edeb38f47726a Hagai Reuven <hagiapps@gmail.com> 1388417906 +0200	commit: gitignore settings
+db7cf168526e49c820fbeabf311edeb38f47726a 249ec04878ec3b7de315d62a5e31e3d4c0202b85 Hagai Reuven <hagiapps@gmail.com> 1388418198 +0200	commit: gitignore settings
+249ec04878ec3b7de315d62a5e31e3d4c0202b85 6b3aa2333496059cda1f63a89f113b2f5e5daafd Hagai Reuven <hagiapps@gmail.com> 1388418552 +0200	commit: gitignore settings
+6b3aa2333496059cda1f63a89f113b2f5e5daafd 029cb0f9e81e6d84d40dcc17d5b0e942b422f3f6 Hagai Reuven <hagiapps@gmail.com> 1388418671 +0200	commit: gitignore settings
+029cb0f9e81e6d84d40dcc17d5b0e942b422f3f6 485405a741c8fdd3ad3d7d031fe64b500bf47bfd Hagai Reuven <hagiapps@gmail.com> 1388418771 +0200	commit: gitignore settings
+485405a741c8fdd3ad3d7d031fe64b500bf47bfd b4b85710cab93ea9cf7bce2d933c62464517d81a Hagai Reuven <hagiapps@gmail.com> 1388419093 +0200	commit: errors
+b4b85710cab93ea9cf7bce2d933c62464517d81a bd4d8066d1ba44e41ba8025ab76877c8041baca2 Hagai Reuven <hagiapps@gmail.com> 1388419562 +0200	commit: gitignore settings
+bd4d8066d1ba44e41ba8025ab76877c8041baca2 855c47841dc3db25ca799674fcc3ca985980fca5 Hagai Reuven <hagiapps@gmail.com> 1388420812 +0200	commit: clean_theme added
+855c47841dc3db25ca799674fcc3ca985980fca5 d9fabff064f4d5fa5694e41cc3115bcf7275ced2 Hagai Reuven <hagiapps@gmail.com> 1388420963 +0200	commit: gitignore settings
+d9fabff064f4d5fa5694e41cc3115bcf7275ced2 ae4c3e9bfe9cf5231365767bc87587814befb5cf Hagai Reuven <hagiapps@gmail.com> 1388421227 +0200	commit: settings
+ae4c3e9bfe9cf5231365767bc87587814befb5cf 5bec49218a8fac1b1b41a9eef567ae584df42ece Hagai Reuven <hagiapps@gmail.com> 1388421551 +0200	commit: zen removed
+5bec49218a8fac1b1b41a9eef567ae584df42ece 4c496256d4cdc8f0c4c473d130f0b897392c4f7f Hagai Reuven <hagiapps@gmail.com> 1388933025 +0200	commit: print env
+4c496256d4cdc8f0c4c473d130f0b897392c4f7f 43513a4ef0546b893b7833bd142a00b17d091b82 Hagai Reuven <hagiapps@gmail.com> 1389027551 +0200	commit: 'environments.inc'
+43513a4ef0546b893b7833bd142a00b17d091b82 4a86e4ac5d2cdd09d21064b98a6b425d6a3297df Hagai Reuven <hagiapps@gmail.com> 1389027726 +0200	commit: print env
+4a86e4ac5d2cdd09d21064b98a6b425d6a3297df 9c9591b1c26287e10b4282a8341feeff97d14555 Hagai Reuven <hagiapps@gmail.com> 1389028055 +0200	commit: 'environments.inc'
+9c9591b1c26287e10b4282a8341feeff97d14555 08301c4eb35ed4bbb83f49b4f2e41bbec90fb84d Hagai Reuven <hagiapps@gmail.com> 1389028168 +0200	commit: 'environments.inc'
+08301c4eb35ed4bbb83f49b4f2e41bbec90fb84d 5a5ac526a89a7b5241fecbe717e04b925bbd1bd9 Hagai Reuven <hagiapps@gmail.com> 1389118428 +0200	commit: it
+5a5ac526a89a7b5241fecbe717e04b925bbd1bd9 36e36d4589e09dda8c9d6a9aa0ca511688da5d7d Hagai Reuven <hagiapps@gmail.com> 1389118805 +0200	commit: it
+36e36d4589e09dda8c9d6a9aa0ca511688da5d7d fbe1671c5f30423f991a2da4d1a33dcf91f654f4 Hagai Reuven <hagiapps@gmail.com> 1389119010 +0200	commit: it
+fbe1671c5f30423f991a2da4d1a33dcf91f654f4 804c05c6c59dddcb344ea8357677fd132eea3964 Hagai Reuven <hagiapps@gmail.com> 1389193389 +0200	commit: new theme 'busy' added
+804c05c6c59dddcb344ea8357677fd132eea3964 644b2b370937257587903ce0ee9cab0a2d8c4fb9 Hagai Reuven <hagiapps@gmail.com> 1389193748 +0200	commit: new database cred
+644b2b370937257587903ce0ee9cab0a2d8c4fb9 1b7300f2d284c4645aee13ad7cb4bfeba69ee762 Hagai Reuven <hagiapps@gmail.com> 1389194297 +0200	commit: nothing
